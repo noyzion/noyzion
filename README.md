@@ -13,12 +13,7 @@ I'm a **Software Engineer** who enjoys building complete systems -
 from backend architecture and cloud infrastructure  
 to clean, intuitive user-facing applications.
 
-I’m especially passionate about:
-- Designing **scalable backend services**
-- Working with **cloud & serverless architectures (AWS)**
-- Connecting real-world needs to **production-ready software**
-
-🎓 **B.Sc. in Computer Science** - The Academic College of Tel Aviv–Yafo  
+🎓 **B.Sc. in Computer Science** - The Academic College of Tel Aviv-Yafo  
 💡 Strong hands-on experience through real projects  
 🌱 Constantly learning and improving
 
@@ -38,7 +33,7 @@ I’m especially passionate about:
 ---
 ## 🚀 Featured Projects
 
-### 🚨 SafeZone – Cloud-Based Emergency Response System
+### 🚨 SafeZone - Cloud-Based Emergency Response System
 **Serverless | Cloud | Mobile Integration**
 
 A cloud-based emergency response platform that helps users find nearby shelters,  
@@ -58,7 +53,7 @@ https://github.com/danareshef1/SafeZoneProject
 
 ---
 
-### 🧥 Stylair – Smart Digital Closet & Outfit Planner
+### 🧥 Stylair - Smart Digital Closet & Outfit Planner
 **Full Stack | Mobile App | Cloud Backend**
 
 A mobile application that helps users manage their digital closet and plan outfits intelligently.  
@@ -78,7 +73,7 @@ https://github.com/noyzion/Stylair
 
 ---
 
-### 🧮 SheetCell – Collaborative Spreadsheet Application
+### 🧮 SheetCell - Collaborative Spreadsheet Application
 **Desktop App | Concurrency | System Design**
 
 A JavaFX-based spreadsheet application supporting collaborative editing, chat,  
