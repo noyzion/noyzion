@@ -21,14 +21,14 @@
 </div>
 
 <p align="center">
-I'm a <b>Software Engineer</b> who enjoys building complete systems —  
-from backend architecture and cloud infrastructure  
+I'm a <b>Software Engineer</b> who enjoys building complete systems —<br/>
+from backend architecture and cloud infrastructure<br/>
 to clean, intuitive user-facing applications.
 </p>
 
 <p align="center">
 🎓 <b>B.Sc. in Computer Science</b> – The Academic College of Tel Aviv–Yafo<br/>
-💡 Strong hands-on experience through real projects<br/>
+💡 Strong hands-on experience through real-world projects<br/>
 🌱 Constantly learning and improving
 </p>
 
@@ -71,15 +71,16 @@ to clean, intuitive user-facing applications.
 </div>
 
 <p align="center">
-A cloud-based emergency response platform that helps users find nearby shelters,  
-report safety status, and receive real-time alerts during emergencies.
+A cloud-based emergency response platform designed to help users<br/>
+find nearby shelters, report safety status,<br/>
+and receive real-time alerts during emergencies.
 </p>
 
 <p align="center">
 <b>Highlights</b><br/>
 • Serverless backend using AWS Lambda & API Gateway<br/>
-• User authentication with AWS Cognito<br/>
-• Real-time notifications and location-based features<br/>
+• Secure user authentication with AWS Cognito<br/>
+• Real-time notifications and location-based services<br/>
 • Mobile client integration
 </p>
 
@@ -102,13 +103,14 @@ AWS Lambda · DynamoDB · Cognito · SNS · React Native
 </div>
 
 <p align="center">
-A mobile application that helps users manage their digital closet  
-and plan outfits intelligently with a clean UX and scalable backend.
+A mobile application that helps users manage their digital closet<br/>
+and plan outfits intelligently with a strong focus on UX<br/>
+and scalable backend design.
 </p>
 
 <p align="center">
 <b>Highlights</b><br/>
-• React Native + Expo mobile app<br/>
+• React Native + Expo mobile application<br/>
 • Backend built with .NET Core REST APIs<br/>
 • Cloud-based architecture on AWS<br/>
 • Structured and extensible item management
@@ -133,8 +135,9 @@ React Native · TypeScript · .NET Core · AWS
 </div>
 
 <p align="center">
-A JavaFX-based spreadsheet application supporting collaborative editing,  
-chat, and version control between multiple users.
+A JavaFX-based spreadsheet application supporting collaborative editing,<br/>
+real-time synchronization, chat,<br/>
+and version control between multiple users.
 </p>
 
 <p align="center">
