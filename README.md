@@ -41,7 +41,7 @@ to clean, intuitive user-facing applications.
 
 ## 🚀 Featured Projects
 
-### 🚨 SafeZone  
+### 🚨 [SafeZone](https://github.com/danareshef1/SafeZoneProject)  
 **Cloud-Based Emergency Response System**
 
 A cloud-based emergency response platform that helps users find nearby shelters,  
@@ -56,12 +56,9 @@ report safety status, and receive real-time alerts during emergencies.
 **Tech Stack**  
 AWS · React · Python · TypeScript
 
-🔗 Repository:  
-https://github.com/danareshef1/SafeZoneProject
-
 ---
 
-### 🧥 Stylair  
+### 🧥 [Stylair](https://github.com/noyzion/Stylair)  
 **Smart Digital Closet & Outfit Planner**
 
 A mobile application that helps users manage their digital closet  
@@ -76,12 +73,9 @@ and plan outfits intelligently with a clean UX and scalable backend.
 **Tech Stack**  
 React Native · TypeScript · .NET Core · AWS
 
-🔗 Repository:  
-https://github.com/noyzion/Stylair
-
 ---
 
-### 🧮 SheetCell  
+### 🧮 [SheetCell](https://github.com/noyzion/SheetCell-JavaFX-UI)  
 **Collaborative Spreadsheet Application**
 
 A JavaFX-based spreadsheet application supporting collaborative editing,  
@@ -94,9 +88,6 @@ chat, and version control between multiple users.
 
 **Tech Stack**  
 Java · JavaFX · Client-Server Architecture · Multithreading
-
-🔗 Repository:  
-https://github.com/noyzion/SheetCell-JavaFX-UI
 
 ---
 
