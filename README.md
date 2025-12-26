@@ -1,25 +1,46 @@
-# 👋 Hi, I'm Noy Zion
+<div align="center">
 
+# 👋 Hi, I'm Noy Zion  
 ### Software Engineer | Full Stack & Cloud-Oriented Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/noy-zion-665057310)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:noyzion3@gmail.com)
+<a href="https://www.linkedin.com/in/noy-zion-665057310">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" />
+</a>
+<a href="mailto:noyzion3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red" />
+</a>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🧭 About Me
 
-I'm a **Software Engineer** who enjoys building complete systems -  
+</div>
+
+<p align="center">
+I'm a <b>Software Engineer</b> who enjoys building complete systems —  
 from backend architecture and cloud infrastructure  
 to clean, intuitive user-facing applications.
+</p>
 
-🎓 **B.Sc. in Computer Science** - The Academic College of Tel Aviv-Yafo  
-💡 Strong hands-on experience through real projects  
+<p align="center">
+🎓 <b>B.Sc. in Computer Science</b> – The Academic College of Tel Aviv–Yafo<br/>
+💡 Strong hands-on experience through real projects<br/>
 🌱 Constantly learning and improving
+</p>
 
 ---
 
+<div align="center">
+
 ## 🧰 Tech Stack
+
+</div>
+
+<div align="center">
 
 | Category | Technologies |
 |--------|-------------|
@@ -30,76 +51,129 @@ to clean, intuitive user-facing applications.
 | **Cloud & DevOps** | AWS (Lambda, API Gateway, S3, Cognito), Docker |
 | **Tools** | Git, GitHub Actions, Postman |
 
+</div>
+
 ---
+
+<div align="center">
+
 ## 🚀 Featured Projects
 
-### 🚨 SafeZone - Cloud-Based Emergency Response System
-**Serverless | Cloud | Mobile Integration**
+</div>
 
+---
+
+<div align="center">
+
+### 🚨 SafeZone  
+**Cloud-Based Emergency Response System**
+
+</div>
+
+<p align="center">
 A cloud-based emergency response platform that helps users find nearby shelters,  
 report safety status, and receive real-time alerts during emergencies.
+</p>
 
-**Highlights**
-- Serverless backend using AWS Lambda & API Gateway
-- User authentication with AWS Cognito
-- Real-time notifications and location-based features
-- Mobile client integration
+<p align="center">
+<b>Highlights</b><br/>
+• Serverless backend using AWS Lambda & API Gateway<br/>
+• User authentication with AWS Cognito<br/>
+• Real-time notifications and location-based features<br/>
+• Mobile client integration
+</p>
 
-**Tech Stack**
+<p align="center">
+<b>Tech Stack</b><br/>
 AWS Lambda · DynamoDB · Cognito · SNS · React Native
+</p>
 
-🔗 Repository:  
-https://github.com/danareshef1/SafeZoneProject
-
----
-
-### 🧥 Stylair - Smart Digital Closet & Outfit Planner
-**Full Stack | Mobile App | Cloud Backend**
-
-A mobile application that helps users manage their digital closet and plan outfits intelligently.  
-Built with a strong focus on clean UX, scalable backend design, and cloud integration.
-
-**Highlights**
-- React Native + Expo mobile app
-- Backend built with .NET Core REST APIs
-- Cloud-based architecture on AWS
-- Structured item management and extensible design
-
-**Tech Stack**
-React Native · TypeScript · .NET Core · AWS 
-
-🔗 Repository:  
-https://github.com/noyzion/Stylair
+<p align="center">
+🔗 <a href="https://github.com/danareshef1/SafeZoneProject">Repository</a>
+</p>
 
 ---
 
-### 🧮 SheetCell - Collaborative Spreadsheet Application
-**Desktop App | Concurrency | System Design**
+<div align="center">
 
-A JavaFX-based spreadsheet application supporting collaborative editing, chat,  
-and version control between multiple users.
+### 🧥 Stylair  
+**Smart Digital Closet & Outfit Planner**
 
-**Highlights**
-- Real-time collaboration concepts
-- Concurrent editing and synchronization
-- Modular, extensible architecture
+</div>
 
-**Tech Stack**
+<p align="center">
+A mobile application that helps users manage their digital closet  
+and plan outfits intelligently with a clean UX and scalable backend.
+</p>
+
+<p align="center">
+<b>Highlights</b><br/>
+• React Native + Expo mobile app<br/>
+• Backend built with .NET Core REST APIs<br/>
+• Cloud-based architecture on AWS<br/>
+• Structured and extensible item management
+</p>
+
+<p align="center">
+<b>Tech Stack</b><br/>
+React Native · TypeScript · .NET Core · AWS
+</p>
+
+<p align="center">
+🔗 <a href="https://github.com/noyzion/Stylair">Repository</a>
+</p>
+
+---
+
+<div align="center">
+
+### 🧮 SheetCell  
+**Collaborative Spreadsheet Application**
+
+</div>
+
+<p align="center">
+A JavaFX-based spreadsheet application supporting collaborative editing,  
+chat, and version control between multiple users.
+</p>
+
+<p align="center">
+<b>Highlights</b><br/>
+• Real-time collaboration concepts<br/>
+• Concurrent editing and synchronization<br/>
+• Modular and extensible architecture
+</p>
+
+<p align="center">
+<b>Tech Stack</b><br/>
 Java · JavaFX · Client-Server Architecture · Multithreading
+</p>
 
-🔗 Repository:  
-https://github.com/noyzion/SheetCell-JavaFX-UI
+<p align="center">
+🔗 <a href="https://github.com/noyzion/SheetCell-JavaFX-UI">Repository</a>
+</p>
 
 ---
+
+<div align="center">
 
 ## 📈 What I Care About
-- Clean, readable, maintainable code  
-- Strong architecture over quick hacks  
-- Learning from real production problems  
+
+</div>
+
+<p align="center">
+• Clean, readable, maintainable code<br/>
+• Strong architecture over quick hacks<br/>
+• Learning from real production problems
+</p>
 
 ---
+
+<div align="center">
 
 ## 📫 Contact
 
-📧 Email: noyzion3@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/noy-zion-665057310
+📧 <a href="mailto:noyzion3@gmail.com">noyzion3@gmail.com</a><br/>
+💼 <a href="https://www.linkedin.com/in/noy-zion-665057310">LinkedIn Profile</a>
+
+</div>
