@@ -2,9 +2,8 @@
 
 ### Software Engineer | Full Stack & Cloud-Oriented Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black)](PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/noy-zion-665057310)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:noyzion3@gmail.com)
 
 ---
 
