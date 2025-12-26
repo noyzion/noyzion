@@ -1,92 +1,77 @@
-# 👋 Hi, I'm Noy Zion  
-### Software Engineer | Full-Stack & Cloud-Native Developer  
+# 👋 Hi, I'm Noy Zion
 
-I enjoy building **production-ready systems** that combine clean architecture, thoughtful UX, and scalable cloud infrastructure.  
-My work focuses on turning real-world problems into reliable software - from mobile apps to serverless backends.
+### Software Engineer | Full Stack & Cloud-Oriented Developer
 
-This GitHub profile serves as my **main technical portfolio**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black)](PORTFOLIO_URL)
 
 ---
 
 ## 🧭 About Me
 
-- 🎓 B.Sc. Computer Science 
-- 💡 Strong focus on **Full-Stack development**, **cloud-native architectures**, and **real-world projects**
-- ☁️ Passionate about **AWS, and scalable backend design**
-- 🧠 Enjoy learning how things work *under the hood* — from data modeling to system design
-- 🤝 Team-oriented, curious, and highly motivated to grow as an engineer
+I'm a **Software Engineer** who enjoys building end-to-end systems — from clean backend architecture  
+to intuitive user-facing applications.
+
+I’m especially passionate about:
+- Designing **scalable backend services**
+- Working with **cloud & serverless architectures (AWS)**
+- Turning complex ideas into **production-ready systems**
+
+🎓 **B.Sc. in Computer Science** – The Academic College of Tel Aviv–Yafo  
+💡 Strong hands-on experience through real projects  
+🌱 Constantly learning and improving
+
+---
+
+## 🧰 Tech Stack
+
+| Category | Technologies |
+|--------|--------------|
+| **Languages** | Java, Python, C#, C++, JavaScript, TypeScript |
+| **Backend** | .NET Core, FastAPI, REST APIs |
+| **Frontend** | React, React Native, Expo |
+| **Databases** | DynamoDB, PostgreSQL, MongoDB |
+| **Cloud & DevOps** | AWS (Lambda, API Gateway, S3, Cognito), Docker |
+| **Tools** | Git, GitHub Actions, Postman |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🆘 SafeZone – Cloud-Based Emergency Response System
-A full-scale, cloud-native emergency mobile application designed to assist users during real-time crisis situations.
+### 🛡️ SafeZone – Emergency Response System
+A cloud-based mobile system for emergency situations, focused on **real-time shelter navigation and alerts**.
 
-**What it does:**
-- Interactive shelter map
-- User safety status updates & emergency notifications
-- AI-based emotional support chat & post-emergency assistance
-- Secure authentication & user identity management
-
-**Architecture Highlights:**
+**Highlights**
 - Serverless backend using AWS Lambda & API Gateway  
-- DynamoDB
-- Authentication with AWS Cognito  
-- Cloud monitoring using CloudWatch  
+- Real-time shelter data & location services  
+- Push notifications with SNS  
+- Secure authentication with Cognito  
 
-**Stack:**  
-`React Native (Expo) · AWS Lambda · DynamoDB · Cognito · API Gateway · CloudWatch`
-
----
-
-### 👗 Stylair – Smart Closet & Outfit Management App
-A mobile application that helps users manage their wardrobe and build outfits intelligently.
-
-**Key Features:**
-- Add clothing items manually or via images
-- Structured closet management (category, season, style)
-- Clean, accessible UI with a focus on usability
-- Backend designed for future AI-based outfit recommendations
-
-**Stack:**  
-`React Native · TypeScript · .NET Core · REST API · AWS`
+**Stack:** React Native, AWS, Python, TypeScript
 
 ---
 
-## 🧰 Technical Skills
+### 👗 Stylair – Smart Closet & Outfit Assistant
+A mobile app for managing a personal closet and generating outfits.
 
-### Languages & Core
-- Java
-- JavaScript / TypeScript
-- Python
-- C#
-- C++
-- SQL
+**Highlights**
+- Add items manually or generate by AI
+- Structured backend with clean architecture  
+- Designed with accessibility & UX in mind  
 
-### Frontend
-- React Native
-- React.js
-- UI/UX-focused component design
+**Stack:** React Native, TypeScript, .NET Core, AWS
 
-### Backend & APIs
-- .NET Core
-- AWS Lambda
-- RESTful APIs
+---
 
-### Cloud & DevOps
-- AWS (Lambda, DynamoDB, S3, SNS, API Gateway)
-- Docker & Docker Compose
-- Git & GitHub workflows
+## 📈 What I Care About
+- Clean, readable, maintainable code  
+- Good architecture over quick hacks  
+- Learning from real production problems  
 
-### Databases
-- DynamoDB
-- PostgreSQL
-- MongoDB
-- 
 ---
 
 ## 📫 Contact
-📧 Email: noyzion3@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/noy-zion-665057310
-💼 Portfolio / Projects: GitHub repositories below ⬇️
+📧 Email: noyzion3@gmail.com  
+💼 LinkedIn:www.linkedin.com/in/noy-zion-665057310
+
