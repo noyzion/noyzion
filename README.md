@@ -14,33 +14,19 @@
 
 ---
 
-<div align="center">
-
 ## 🧭 About Me
 
-</div>
-
-<p align="center">
-I'm a <b>Software Engineer</b> who enjoys building complete systems —<br/>
-from backend architecture and cloud infrastructure<br/>
+I'm a **Software Engineer** who enjoys building complete systems —  
+from backend architecture and cloud infrastructure  
 to clean, intuitive user-facing applications.
-</p>
 
-<p align="center">
-🎓 <b>B.Sc. in Computer Science</b> – The Academic College of Tel Aviv–Yafo<br/>
-💡 Strong hands-on experience through real-world projects<br/>
+🎓 **B.Sc. in Computer Science** – The Academic College of Tel Aviv–Yafo  
+💡 Strong hands-on experience through real projects  
 🌱 Constantly learning and improving
-</p>
 
 ---
 
-<div align="center">
-
 ## 🧰 Tech Stack
-
-</div>
-
-<div align="center">
 
 | Category | Technologies |
 |--------|-------------|
@@ -51,132 +37,78 @@ to clean, intuitive user-facing applications.
 | **Cloud & DevOps** | AWS (Lambda, API Gateway, S3, Cognito), Docker |
 | **Tools** | Git, GitHub Actions, Postman |
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🚀 Featured Projects
-
-</div>
-
----
-
-<div align="center">
 
 ### 🚨 SafeZone  
 **Cloud-Based Emergency Response System**
 
-</div>
+A cloud-based emergency response platform that helps users find nearby shelters,  
+report safety status, and receive real-time alerts during emergencies.
 
-<p align="center">
-A cloud-based emergency response platform designed to help users<br/>
-find nearby shelters, report safety status,<br/>
-and receive real-time alerts during emergencies.
-</p>
+**Highlights**
+- Serverless backend using AWS Lambda & API Gateway
+- User authentication with AWS Cognito
+- Real-time notifications and location-based features
+- Mobile client integration
 
-<p align="center">
-<b>Highlights</b><br/>
-• Serverless backend using AWS Lambda & API Gateway<br/>
-• Secure user authentication with AWS Cognito<br/>
-• Real-time notifications and location-based services<br/>
-• Mobile client integration
-</p>
-
-<p align="center">
-<b>Tech Stack</b><br/>
+**Tech Stack**  
 AWS Lambda · DynamoDB · Cognito · SNS · React Native
-</p>
 
-<p align="center">
-🔗 <a href="https://github.com/danareshef1/SafeZoneProject">Repository</a>
-</p>
+🔗 Repository:  
+https://github.com/danareshef1/SafeZoneProject
 
 ---
-
-<div align="center">
 
 ### 🧥 Stylair  
 **Smart Digital Closet & Outfit Planner**
 
-</div>
+A mobile application that helps users manage their digital closet  
+and plan outfits intelligently with a clean UX and scalable backend.
 
-<p align="center">
-A mobile application that helps users manage their digital closet<br/>
-and plan outfits intelligently with a strong focus on UX<br/>
-and scalable backend design.
-</p>
+**Highlights**
+- React Native + Expo mobile app
+- Backend built with .NET Core REST APIs
+- Cloud-based architecture on AWS
+- Structured and extensible item management
 
-<p align="center">
-<b>Highlights</b><br/>
-• React Native + Expo mobile application<br/>
-• Backend built with .NET Core REST APIs<br/>
-• Cloud-based architecture on AWS<br/>
-• Structured and extensible item management
-</p>
-
-<p align="center">
-<b>Tech Stack</b><br/>
+**Tech Stack**  
 React Native · TypeScript · .NET Core · AWS
-</p>
 
-<p align="center">
-🔗 <a href="https://github.com/noyzion/Stylair">Repository</a>
-</p>
+🔗 Repository:  
+https://github.com/noyzion/Stylair
 
 ---
-
-<div align="center">
 
 ### 🧮 SheetCell  
 **Collaborative Spreadsheet Application**
 
-</div>
+A JavaFX-based spreadsheet application supporting collaborative editing,  
+chat, and version control between multiple users.
 
-<p align="center">
-A JavaFX-based spreadsheet application supporting collaborative editing,<br/>
-real-time synchronization, chat,<br/>
-and version control between multiple users.
-</p>
+**Highlights**
+- Real-time collaboration concepts
+- Concurrent editing and synchronization
+- Modular and extensible architecture
 
-<p align="center">
-<b>Highlights</b><br/>
-• Real-time collaboration concepts<br/>
-• Concurrent editing and synchronization<br/>
-• Modular and extensible architecture
-</p>
-
-<p align="center">
-<b>Tech Stack</b><br/>
+**Tech Stack**  
 Java · JavaFX · Client-Server Architecture · Multithreading
-</p>
 
-<p align="center">
-🔗 <a href="https://github.com/noyzion/SheetCell-JavaFX-UI">Repository</a>
-</p>
+🔗 Repository:  
+https://github.com/noyzion/SheetCell-JavaFX-UI
 
 ---
-
-<div align="center">
 
 ## 📈 What I Care About
 
-</div>
-
-<p align="center">
-• Clean, readable, maintainable code<br/>
-• Strong architecture over quick hacks<br/>
-• Learning from real production problems
-</p>
+- Clean, readable, maintainable code  
+- Strong architecture over quick hacks  
+- Learning from real production problems  
 
 ---
 
-<div align="center">
-
 ## 📫 Contact
 
-📧 <a href="mailto:noyzion3@gmail.com">noyzion3@gmail.com</a><br/>
-💼 <a href="https://www.linkedin.com/in/noy-zion-665057310">LinkedIn Profile</a>
-
-</div>
+📧 Email: noyzion3@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/noy-zion-665057310
