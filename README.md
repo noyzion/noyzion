@@ -34,7 +34,7 @@ to clean, intuitive user-facing applications.
 | **Backend** | .NET Core, FastAPI, REST APIs |
 | **Frontend** | React, React Native, Expo |
 | **Databases** | DynamoDB, PostgreSQL, MongoDB |
-| **Cloud & DevOps** | AWS (Lambda, API Gateway, S3, Cognito), Docker |
+| **Cloud & DevOps** | AWS, Docker |
 | **Tools** | Git, GitHub Actions, Postman |
 
 ---
