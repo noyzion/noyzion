@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Noy 👩‍💻  
+Full-Stack Developer | Cloud & Mobile | AWS Enthusiast
 
-<!--
-**noyzion/noyzion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
+- Frontend: React Native, Expo, TypeScript
+- Backend: .NET Core, Python, FastAPI
+- Cloud: AWS (Lambda, DynamoDB, Cognito, S3, SNS)
+- Databases: DynamoDB, PostgreSQL, MongoDB
+- Tools: Git, Docker, Postman
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🆘 SafeZone
+Cloud-based emergency response mobile app  
+🔹 AWS Lambda + DynamoDB + Cognito  
+🔹 Real-time shelter map & alerts  
+🔹 React Native (Expo)
+
+🔗 Repo: https://github.com/noyzion/safezone
+
+---
+
+### 👗 Stylair
+Smart closet & outfit recommendation app  
+🔹 React Native + .NET Backend  
+🔹 AI-ready architecture  
+🔹 Designed for real users
+
+🔗 Repo: https://github.com/noyzion/stylair
+
+## 📫 Reach me
+- LinkedIn: www.linkedin.com/in/noy-zion-665057310
+- Email: noyzion3@gmail.com
