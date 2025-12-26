@@ -16,11 +16,11 @@
 
 ## 🧭 About Me
 
-I'm a **Software Engineer** who enjoys building complete systems —  
+I'm a **Software Engineer** who enjoys building complete systems - 
 from backend architecture and cloud infrastructure  
 to clean, intuitive user-facing applications.
 
-🎓 **B.Sc. in Computer Science** – The Academic College of Tel Aviv–Yafo  
+🎓 **B.Sc. in Computer Science** - The Academic College of Tel Aviv-Yafo  
 💡 Strong hands-on experience through real projects  
 🌱 Constantly learning and improving
 
@@ -54,7 +54,7 @@ report safety status, and receive real-time alerts during emergencies.
 - Mobile client integration
 
 **Tech Stack**  
-AWS Lambda · DynamoDB · Cognito · SNS · React Native
+AWS · React · Python · TypeScript
 
 🔗 Repository:  
 https://github.com/danareshef1/SafeZoneProject
