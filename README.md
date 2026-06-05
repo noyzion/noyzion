@@ -35,9 +35,9 @@ I currently work as a **Backend Developer at inManage**, where I continue to gro
 | **Languages** | Java, Python, PHP, C#, C++, JavaScript, TypeScript |
 | **Backend** | PHP, .NET Core, FastAPI, Node.js, REST APIs, AWS Lambda |
 | **Databases** | MySQL, DynamoDB, PostgreSQL, MongoDB |
-| **Cloud & DevOps** | AWS, Docker, API Gateway, Cognito, SNS, S3, CloudWatch |
+| **Cloud & DevOps** | AWS, Docker, API Gateway, Cognito, S3, CloudWatch |
 | **Frontend** | React, React Native, Expo |
-| **Tools** | Git, Postman |
+| **Tools** | Git, Postman, AWS CDK, AWS SAM CLI |
 
 ---
 
