@@ -98,24 +98,6 @@ Java · JavaFX · Client-Server Architecture · Multithreading
 
 ---
 
-### 🏠 Architecture Portfolio Website  
-**Portfolio Website & Admin Panel**
-
-A full portfolio website for an architecture and interior design business,  
-including a protected admin panel for managing website content.
-
-**Highlights**
-- Password-protected admin panel
-- Project management: add, edit, delete and reorder projects
-- Dynamic text, services and image management
-- Multilingual content support
-- Production build and deployment workflow
-
-**Tech Stack**  
-React · TypeScript · Next.js · Tailwind CSS · Vercel
-
----
-
 ## 📈 What I Care About
 
 - Clean, readable and maintainable code  
@@ -124,18 +106,6 @@ React · TypeScript · Next.js · Tailwind CSS · Vercel
 - Secure authentication and user management  
 - Building real systems that solve real problems  
 - Learning from production challenges and improving constantly  
-
----
-
-## 🎯 Current Focus
-
-I'm currently focused on:
-
-- Backend development in real production environments
-- REST API design and server-side architecture
-- Cloud-based development with AWS
-- Databases, authentication and integrations
-- Writing clean and scalable code
 
 ---
 
